@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Vats</h1>
 <h3 align="center">Robotics Enthusiast, interested in linking Reinforcement learning and Deep Neural Networks with robotics</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh8273" alt="utkarsh8273" /></a> </p>
-
-- 🔭 I’m currently working on **AI and Robotics**
+- 📝 Pre-final year undergrad at [VNIT, Nagpur, India](https://vnit.ac.in/)
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
-- 📝 Pre-final year undergrad at [VNIT, Nagpur, India](https://vnit.ac.in/)
+- 🔭 I’m currently working on **AI and Robotics**
 
 - 📫 Contact **utk8273@gmail.com**
 
