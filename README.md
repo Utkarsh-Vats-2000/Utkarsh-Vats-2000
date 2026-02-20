@@ -2,8 +2,6 @@
 
 - 📝 First year Mtech Robotics & Autonomous Systems student at [IISc Bangalore, India](https://iisc.ac.in/)
 
-- 🔭 I’m currently working on **AI and Robotics**
-
 - 📫 Contact **utk8273@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
