@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Vats</h1>
-<h3 align="center">Robotics Enthusiast, interested in transformers based world models for robotics manipulation</h3>
 
 - 📝 First year Mtech Robotics & Autonomous Systems student at [IISc Bangalore, India](https://iisc.ac.in/)
 
